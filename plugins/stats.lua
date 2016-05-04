@@ -120,7 +120,7 @@ local function run(msg, matches)
         return
       end
     end
-    if matches[2] == "sbss" then -- Put everything you like :)
+    if matches[2] == "مدیران بات" then -- Put everything you like :)
       if not is_admin(msg) then
         return "فقط برای ادمین ها !"
       else
@@ -150,7 +150,7 @@ return {
     "^[!/#](statslist)$",
     "^[!/#](stats) (group) (%d+)",
     "^[!/#](stats) (sbss)",
-	"^[!/#]([Ss]bss)$"
+	"^(مدیران بات)$"
     }, 
   run = run
 }
