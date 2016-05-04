@@ -256,25 +256,24 @@ function create_config( )
     "webshot",
     "welcome"
     },
-    sudo_users = {122774063},--Sudo users
+    sudo_users = {119408525,173345972},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Sbss Bot V3
+    about_text = [[anonymous Bot V3
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
-    @Mr_Ah_S
+    @vampayer10
     
     Special Thanks To:
-    Mehr Pouya
-    Arman
-    IM/-\N
-    Creed Is Dead
+    Ali
+    nima
+    Maryam
     
-    Powered By @Sbss_Team
+    Powered By @ch_anonymou3tg
     
     #Open Source
-    https://github.com/SbssTeam/Sbss
+    https://github.com
 ]],
     help_text_realm = [[
 See Patterns In Github
